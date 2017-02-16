@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+
+body {
+    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Clouds_over_the_Atlantic_Ocean.jpg/1920px-Clouds_over_the_Atlantic_Ocean.jpg") no-repeat center center fixed;
+    text-align:center;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Sansita;
+}
+.home.header{
+    color:white;
+    font-size: 65px;
+    padding-top: 101px;
+}
+.home.quote{
+    color:white;
+    font-size: 50px;
+}
+.home.button{
+    font-family: "Sansita";
+    font-size: 25px ;
+    color: white;
+    border: 10px solid white;
+    background: transparent;
+    padding: 20px 35px 20px 35px;
+    
+}
